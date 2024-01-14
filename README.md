@@ -1,6 +1,6 @@
-# Cafeteria System
+# University Cafeteria Management System
 
-The **University Cafeteria System** is a Java-based application designed for use in a terminal environment. It provides a straightforward interface for users to browse the menu, place orders, and receive receipts. Additionally, it offers administrative features for managing the menu and analyzing sales data.
+The **University Cafeteria Management System** is a Java-based application designed for use in a terminal environment. It provides a straightforward interface for users to browse the menu, place orders, and receive receipts. Additionally, it offers administrative features for managing the menu and analyzing sales data.
 
 ## Features
 
